@@ -1,0 +1,1 @@
+from models.ja_fingerspelling_classification.ja_fingerspelling_classification import JaSpellingClassification
